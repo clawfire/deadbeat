@@ -2,6 +2,14 @@
 
 MauvaisPayer ( in french : deadbeat ) is a little single page which warn the internet users that they are consulting a website own by someone who think it's totaly ok to don't pay for the hosting, work, or everything else.
 
+It was a little 30 min project to discover [Yeoman](http://yeoman.io/gettingstarted.html) ( you really should take a look, it's damn usefull).
+
+## How to
+
+1. Edit files in `app/` with a `grunt serve` in the background
+2. Fire a `grunt` when you're done
+3. Commit, push, yeah
+
 ## Licence
 
 The MIT License (MIT)
